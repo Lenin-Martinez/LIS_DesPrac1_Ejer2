@@ -1,0 +1,54 @@
+body{
+    background: linear-gradient(to bottom, darkcyan, black);
+    font-family: 'Courier New', Courier, monospace;
+}
+.Titulo{
+    text-align: center;
+    font-size: 50px;
+    width: 70%;
+    margin-left: 15%;
+}
+.entradaDatos{
+    background: linear-gradient(to bottom, darkslategrey, darkgrey);
+    color: white;
+    float: left;
+    width: 42%;
+    height: 325px;
+    padding: 2%;
+    margin-left: 3%;
+    border-radius: 9%;
+    font-size: 90%;
+}
+.labelEntradas{
+    float: left;
+    text-align: right;
+    padding-top: 1%;
+}
+.inputEntradas{
+    float: left;
+    text-align: left;
+    padding-left: 2%;
+}
+.btnCalcular{
+    background: linear-gradient(to bottom, gray, black);
+    color: aliceblue;
+    margin-left: 30%;
+    margin-top: 8%;
+    width: 30%;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Resultados{
+    background: linear-gradient(to bottom, darkslategrey, darkgrey);
+    float: left;
+    width: 35%;
+    height: 380px;
+    padding-left: 7%;
+    margin-left: 3%;
+    border-radius: 9%;
+}
+.tablaTitulo{
+    background-color: darkkhaki;
+}
