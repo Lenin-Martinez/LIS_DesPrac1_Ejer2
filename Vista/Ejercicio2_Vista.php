@@ -99,10 +99,6 @@
                                             $_POST["txtInteres"],
                                             $_POST["txtPlazo"]);
                     }
-                    else
-                    {
-                        echo "Elementos faltantes";
-                    }
                 ?>
             </table>
 
